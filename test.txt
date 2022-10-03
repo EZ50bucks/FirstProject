@@ -6,8 +6,8 @@ test4
 feature-1
 
 Feature-2
-<<<<<<< HEAD
+
 defgh
-=======
+
 abcd
->>>>>>> feature-2
+
